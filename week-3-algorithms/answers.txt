@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Longest amount of time taken to sort through text files
+
+sort2 uses: Merge sort
+
+How do you know?: Shortest amount of time taken to sort through list compared to sort1 and sort2 (at 0.042 sec)
+
+sort3 uses: Selection sort
+
+How do you know?: Middle amount of time taken, longer than sort2 but a bit shorter than sort1
