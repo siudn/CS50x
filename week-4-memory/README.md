@@ -1,6 +1,6 @@
 # Week 4 - Memory
 ## Topics
-This week introduced memory management and usage, covering topics like pointers, pointer arithmetic, different kinds of syntax used to reference addresses, and buffer overflows. We gained a conceptual understanding of how and where different values are stored through the lens of C.
+This week introduced memory management and usage, covering topics such as pointers, pointer arithmetic, different kinds of syntax used to reference addresses, and buffer overflows. We gained a conceptual understanding of how and where different values are stored through the lens of C.
 
 ## Programs
 recover - recovers lost images/files from a damaged or corrupted file in the same directory. To use, compile and run `./recover "filename"` (no quotes, input your file).
